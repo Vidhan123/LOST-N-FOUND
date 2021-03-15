@@ -31,7 +31,3 @@
 ![HomepageM](/backend/screenshots/items.png)
 
 ![HomepageM](/backend/screenshots/addEditItems.png)
-
-#### Payment Gateway:
-
-![HomepageM](/backend/screenshots/pay.png)
