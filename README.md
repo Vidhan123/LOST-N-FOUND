@@ -18,7 +18,7 @@
 
 ![HomepageM](/backend/screenshots/filters.png)
 
-#### Search Products (Even with Multiple and/or Partial Keywoeds):
+#### Search Products (Even with Multiple and/or Partial Keywords):
 
 ![HomepageM](/backend/screenshots/search.png)
 
@@ -34,4 +34,4 @@
 
 #### Payment Gateway:
 
-![HomepageM](/backend/screenshots/product.png)
+![HomepageM](/backend/screenshots/pay.png)
